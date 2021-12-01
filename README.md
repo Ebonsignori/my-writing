@@ -1,8 +1,5 @@
-# Writing
+# [blog.evan.bio](https://blog.evan.bio) 
 
-https://ebonsignori.github.io/my-writing/
+My writing/blog site
 
-A blog on no particular theme for all my writing content.
-
-Part of https://github.com/Ebonsignori/my-sites
-
+Pushes from the [my-sites](https://github.com/Ebonsignori/my-sites) deploy action trigger Netlify deploy for this repo.
